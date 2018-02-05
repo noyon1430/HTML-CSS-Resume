@@ -1,0 +1,28 @@
+
+html {
+  background: url(Nature.JPEG) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.content{
+background-color: rgba(0, 0, 0, 0.3);
+
+}
+h4{
+background-color: rgba(188, 224, 226,0.4);
+
+}
+
+@media (min-width:400px) and (max-width:800px){
+
+.content{
+  background-color:rgba(63, 191, 155, 0.7) ;
+}
+
+h4{
+  background-color:rgba(229, 147, 71,0.4);
+
+}
+}
